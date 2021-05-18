@@ -3,7 +3,7 @@ public class HelloProgram {
         System.out.println("Loop based execution - CICD Demo");
 
         for(int i=0; i<5;i++){
-            System.out.println("Santosh :" +i);
+            System.out.println("Santosh :" +i*2);
         }
     }
 }
